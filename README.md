@@ -1,3 +1,3 @@
 ## Hulu Clone Application
 
-### `Built with ReactJS`
+### Built with ReactJS, Deployed with Firebase
